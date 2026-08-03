@@ -248,10 +248,4 @@ streamlit run app.py
 
 ---
 
-## 👨‍💻 Author
 
-Akshat Tyagi
-
-B.Tech Electronics & Communication Engineering
-
-The LNM Institute of Information Technology (LNMIIT), Jaipur
